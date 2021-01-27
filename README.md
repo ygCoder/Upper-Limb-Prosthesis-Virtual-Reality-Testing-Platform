@@ -3,7 +3,7 @@
 
 This virtual reality platform was develop for research purposes only. Please refer to the following publication to view an example of its use:
 
-###### Yuri Gloumakov, Joao Bimbo, and Aaron M. Dollar, "[Trajectory Control for 3 Degree of Freedom Wrist Prosthesis in Virtual Reality: A Pilot Study]", *IEEE proceedings of the International Conference for Biomedical Robotics and Biomechatronics (BioRob)*, 2020. (https://www.eng.yale.edu/grablab/pubs/Gloumakov_BIOROB2020.pdf)
+###### Yuri Gloumakov, Joao Bimbo, and Aaron M. Dollar, "[Trajectory Control for 3 Degree of Freedom Wrist Prosthesis in Virtual Reality: A Pilot Study](https://www.eng.yale.edu/grablab/pubs/Gloumakov_BIOROB2020.pdf)", *IEEE proceedings of the International Conference for Biomedical Robotics and Biomechatronics (BioRob)*, 2020.
 
 
 

@@ -3,6 +3,8 @@
 
 The following category of models have been included in the virtual reality environment (VRE): prosthetic body and arm, objects that the prosthesis will interact with, scenic objects (such as table and chair), and visual cue objects (such as the cone depicting whether the prosthetic hand is within the grasp threshold)
 
+Below you can see an example of a drinking task. Note the the change in the visual cue as the virtual prosthetic hand approached the object.
+
 ![alt text](https://github.com/ygCoder/Upper-Limb-Prosthesis-Virtual-Reality-Testing-Platform/blob/main/VR_reach_crop.png "VRE example")
 
 

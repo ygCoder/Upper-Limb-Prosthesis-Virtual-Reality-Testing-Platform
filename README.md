@@ -6,6 +6,7 @@ This virtual reality platform was develop for research purposes only. Please ref
 Yuri Gloumakov, Joao Bimbo, and Aaron M. Dollar, "Trajectory Control for 3 Degree of Freedom Wrist Prosthesis in Virtual Reality: A Pilot Study", *IEEE proceedings of the International Conference for Biomedical Robotics and Biomechatronics (BioRob)*, 2020.
 
 
+
 The following category of models have been included in the virtual reality environment (VRE): prosthetic body and arm, objects that the prosthesis will interact with, scenic objects (such as table and chair), and visual cue objects (such as the cone depicting whether the prosthetic hand is within the grasp threshold)
 
 Below you can see an example of a drinking task. Note the the change in the visual cue as the virtual prosthetic hand approached the object.

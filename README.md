@@ -2,7 +2,9 @@
 # Feel free to use and modify this platform for evaluating the control of upper-limb prosthesis or rehabilitation outcomes.
 
 This virtual reality platform was develop for research purposes only. Please refer to the following publication to view an example of its use:
+
 Yuri Gloumakov, Joao Bimbo, and Aaron M. Dollar, "Trajectory Control for 3 Degree of Freedom Wrist Prosthesis in Virtual Reality: A Pilot Study",IEEE proceedings of the International Conference for Biomedical Robotics and Biomechatronics (BioRob), 2020.
+
 
 The following category of models have been included in the virtual reality environment (VRE): prosthetic body and arm, objects that the prosthesis will interact with, scenic objects (such as table and chair), and visual cue objects (such as the cone depicting whether the prosthetic hand is within the grasp threshold)
 

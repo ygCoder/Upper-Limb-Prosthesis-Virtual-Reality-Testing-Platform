@@ -14,11 +14,11 @@ Below you can see an example of a drinking task. Note the the change in the visu
 ![alt text](https://github.com/ygCoder/Upper-Limb-Prosthesis-Virtual-Reality-Testing-Platform/blob/main/VR_reach_crop.png "VRE example")
 
 
-The following image depicts a participant wearing the head mounted display (HMD) and operating a prosthetic device using the HTC Vive Controller
+The following image depicts a participant wearing the head mounted display (HMD) and operating a prosthetic device using the HTC Vive Controller. Although not necessary, Vicon markers are tracked and displayed in the image as part of a separate analysis.
 
 ![alt text](https://github.com/ygCoder/Upper-Limb-Prosthesis-Virtual-Reality-Testing-Platform/blob/main/splash2.jpg "Participant Figure")
 
 
-As part of the the virtual reality platform repository, we're including the trajectory data used for the Trajectory Control. This includes 5 wrist trajectories (see image below), 11 elbow-wrist trajectories, and 11 elbow-wrist-shoulder trajectories. Below, pairs of virtual hands demonstrate the two ends of each trajectory.
+As part of the the virtual reality platform repository, we're including the trajectory data used for the Trajectory Control. This includes the 5 wrist trajectories (see image below). Pairs of virtual hands demonstrate the two ends of each motion trajectory.
 
 ![alt text](https://github.com/ygCoder/Upper-Limb-Prosthesis-Virtual-Reality-Testing-Platform/blob/main/traj_wrist_v3.png "Participant Figure")

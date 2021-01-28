@@ -11,7 +11,9 @@ The following category of models have been included in the virtual reality envir
 
 Below you can see an example of a drinking task. Note the the change in the visual cue as the virtual prosthetic hand approached the object.
 
-![alt text](https://github.com/ygCoder/Upper-Limb-Prosthesis-Virtual-Reality-Testing-Platform/blob/main/VR_reach_crop.png "VRE example")
+![alt text](VRExample)
+
+[VRExample]: VR_reach_crop.png "VRE example"
 
 
 The following image depicts a participant wearing the head mounted display (HMD) and operating a prosthetic device using the HTC Vive Controller. Although not necessary, Vicon markers are tracked and displayed in the image as part of a separate analysis.

@@ -1,3 +1,4 @@
 ### Installation Instructions
 
-TO BE FINISHED
+clone the repository:
+``git clone https://github.com/ygCoder/Upper-Limb-Prosthesis-Virtual-Reality-Testing-Platform``

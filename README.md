@@ -8,6 +8,8 @@ This virtual reality platform was developed for research purposes only. Please r
 -----------
 [Installation Instructions](install.md)
 
+[Getting Started](GettingStarted.md)
+
 
 
 The following category of models have been included in the virtual reality environment (VRE): prosthetic body and arm, objects that the prosthesis will interact with, scenic objects (such as table and chair), and visual cue objects (such as the cone depicting whether the prosthetic hand is within the grasp threshold)

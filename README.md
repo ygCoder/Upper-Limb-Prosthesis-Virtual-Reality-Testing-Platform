@@ -19,6 +19,6 @@ The following image depicts a participant wearing the head mounted display (HMD)
 ![alt text](https://github.com/ygCoder/Upper-Limb-Prosthesis-Virtual-Reality-Testing-Platform/blob/main/splash2.jpg "Participant Figure")
 
 
-As part of the the virtual reality platform repository, we're including the trajectory data used for the Trajectory Control. This includes the 5 wrist trajectories (see image below). Pairs of virtual hands demonstrate the two ends of each motion trajectory.
+As part of the the virtual reality platform repository, we're including the trajectory data used for the Trajectory Control. This includes the 5 learned wrist trajectories (see image below). Pairs of virtual hands demonstrate the two ends of each motion trajectory.
 
 ![alt text](https://github.com/ygCoder/Upper-Limb-Prosthesis-Virtual-Reality-Testing-Platform/blob/main/traj_wrist_v3.png "Participant Figure")
